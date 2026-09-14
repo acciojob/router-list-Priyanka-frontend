@@ -4,23 +4,18 @@ import { Link } from "react-router-dom";
 const items = [
   {
     id: 1,
-    name: "Laptop",
+    name: "Item 1",
     description: "A powerful laptop for work and study."
   },
   {
     id: 2,
-    name: "Mobile Phone",
+    name: "Item 2",
     description: "A smartphone with modern features."
   },
   {
     id: 3,
-    name: "Headphones",
+    name: "Item 3",
     description: "Wireless headphones with clear sound."
-  },
-  {
-    id: 4,
-    name: "Keyboard",
-    description: "A comfortable keyboard for everyday use."
   }
 ];
 
