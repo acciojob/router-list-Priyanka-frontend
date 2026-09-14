@@ -5,17 +5,17 @@ const items = [
   {
     id: 1,
     name: "Item 1",
-    description: "A powerful laptop for work and study."
+    description: "Description for Item 1"
   },
   {
     id: 2,
     name: "Item 2",
-    description: "A smartphone with modern features."
+    description: "Description for Item 2"
   },
   {
     id: 3,
     name: "Item 3",
-    description: "Wireless headphones with clear sound."
+    description: "Description for Item 3"
   }
 ];
 
